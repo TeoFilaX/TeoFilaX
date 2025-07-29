@@ -26,15 +26,14 @@
 Here are some of my favorite repositories:
 - 🔬 [`ViralBoostAI`](https://github.com/TeoFilaX/ViralBoostAI) — AI to boost video virality for creators.
 - 🎨 [`bicefalea-art-gallery`](https://github.com/TeoFilaX/bicefalea-art-gallery) — Interactive art platform exploring surreal visuals.
-- 🐶 [`MeetingDogs`](https://github.com/TeoFilaX/MeetingDogs) — Social network for dog owners in Spain.
 
 ---
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/)  
 - 🌍 Personal website (coming soon)  
-- ✉️ Email: tuemail@correo.com  
+- ✉️ Email: gerarkia33@gmail.com
 
 ---
 
