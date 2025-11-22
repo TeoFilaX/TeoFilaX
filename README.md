@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christian — aka TeoFilaX
+# 👋 Hi, I'm Christian
 
 💡 I’m an ambitious, creative, and self-taught developer currently diving deep into the world of **Artificial Intelligence** and **Full Stack Development**.  
 🚀 I'm building real projects as I learn — always pushing to improve and create tools that are useful, aesthetic, and smart.
