@@ -32,7 +32,6 @@ Here are some of my favorite repositories:
 ## 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/)  
-- 🌍 Personal website (coming soon)  
 - ✉️ Email: gerarkia33@gmail.com
 
 ---
