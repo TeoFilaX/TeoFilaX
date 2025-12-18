@@ -1,40 +1,24 @@
 # 👋 Hi, I'm Christian
 
-💡 I’m an ambitious, creative, and self-taught developer currently diving deep into the world of **Artificial Intelligence** and **Full Stack Development**.  
-🚀 I'm building real projects as I learn — always pushing to improve and create tools that are useful, aesthetic, and smart.
+I'm a **Junior Data Scientist** based in Pamplona, Spain, with a strong foundation in statistics, data analysis and machine learning. Currently I'm expanding my skills into artificial intelligence and generative models.
 
----
+## 🔍 About Me
+- 🎓 Graduate of Hack a Boss Data Science program, where I developed projects like **Análisis Cinematográfico**, performing data extraction, cleaning, EDA and visualization using Python and libraries like pandas, NumPy and matplotlib.
+- 📊 I enjoy turning raw data into actionable insights and building models that solve real-world problems.
+- 🤖 I'm also exploring generative AI and large language models (LLMs), experimenting with their applications in automation and product development.
 
-## 🔧 Technologies I’m learning & using
-
-- 🧠 Python, FastAPI, TensorFlow, Whisper, Mistral
-- 🌐 HTML, CSS, JavaScript, React, Tailwind
-- ⚙️ Git, GitHub, VSCode, Postman
-- 🧪 Pytest, unit testing, CI/CD (coming soon)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeoFilaX&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeoFilaX&layout=compact&theme=tokyonight)
-
----
+## 🧠 Skills & Technologies
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** scikit-learn, TensorFlow basics
+- **Generative AI:** LLMs (intro level)
+- **Tools:** Git & GitHub, APIs, Jupyter Notebooks
 
 ## 🧩 Featured Projects
-
 Here are some of my favorite repositories:
-- 🔬 [`ViralBoostAI`](https://github.com/TeoFilaX/ViralBoostAI) — AI to boost video virality for creators.
-- 🎨 [`bicefalea-art-gallery`](https://github.com/TeoFilaX/bicefalea-art-gallery) — Interactive art platform exploring surreal visuals.
+- 🔍 [`Analisis_cinematografico`](https://github.com/TeoFilaX/Analisis_cinematografico) — Exploratory data analysis of movie data from the TMDb API.
+- 🌈 [`bicefalea-art-gallery`](https://github.com/TeoFilaX/bicefalea-art-gallery) — Interactive art platform exploring surreal visuals.
+- 🤖 [`ViralBoostAI`](https://github.com/TeoFilaX/ViralBoostAI) — AI to boost video virality for creators.
 
----
-
-## 📬 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/)  
-- ✉️ Email: gerarkia33@gmail.com
-
----
-
-_"Dream big, execute small, improve daily."_ ✨  
-Made with ❤️ by **TeoFilaX**
+## 📬 Let's Connect
+You can find me on [LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/) where I share my journey into data science and AI. I'm open to collaboration and new opportunities!
