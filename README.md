@@ -18,7 +18,6 @@ I'm a **Junior Data Scientist** based in Pamplona, Spain, with a strong foundati
 Here are some of my favorite repositories:
 - 🔍 [`Analisis_cinematografico`](https://github.com/TeoFilaX/Analisis_cinematografico) — Exploratory data analysis of movie data from the TMDb API.
 - 🌈 [`bicefalea-art-gallery`](https://github.com/TeoFilaX/bicefalea-art-gallery) — Interactive art platform exploring surreal visuals.
-- 🤖 [`ViralBoostAI`](https://github.com/TeoFilaX/ViralBoostAI) — AI to boost video virality for creators.
 
 ## 📬 Let's Connect
 You can find me on [LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/) where I share my journey into data science and AI. I'm open to collaboration and new opportunities!
