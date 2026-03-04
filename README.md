@@ -31,22 +31,6 @@ Busco oportunidades como **Data Analyst**, **Data Engineer** o **Business Intell
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 🔍 [Analisis_cinematografico](https://github.com/TeoFilaX/Analisis_cinematografico)
-Análisis exploratorio de datos cinematográficos utilizando la API pública de TMDb. Construcción de un pipeline ETL completo y análisis para responder preguntas sobre popularidad, géneros, ingresos y tendencias del cine.
-> `Python` · `pandas` · `Data Analysis` · `ETL` · `APIs`
-
-### 🤖 [Nexus Orchestrator v2.1](https://github.com/TeoFilaX/Nexus-Orchestrator-v2.1)
-Orquestador neuronal open source que piensa, delega y ejecuta entre agentes especializados. Construido con Groq + Llama 3.3 y compatible con modelos locales via Ollama.
-> `Python` · `LLMs` · `IA Generativa` · `Multi-agente` · `Groq` · `Ollama`
-
-### 🌈 [bicefalea-art-gallery](https://github.com/TeoFilaX/bicefalea-art-gallery)
-Plataforma de arte interactivo que explora imágenes surrealistas generadas con IA.
-> `IA Generativa` · `Arte digital`
-
----
-
 ## 🎓 Formación
 
 **HACK A BOSS** — Bootcamp en Inteligencia Artificial y Big Data *(sept. 2025 – feb. 2026)*
