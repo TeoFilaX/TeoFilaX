@@ -1,23 +1,61 @@
-# 👋 Hi, I'm Christian
+# 👋 Hola, soy Christian Monzón
 
-I'm a **Junior Data Scientist** based in Pamplona, Spain, with a strong foundation in statistics, data analysis and machine learning. Currently I'm expanding my skills into artificial intelligence and generative models.
+**Data Analyst & Engineer** especializado en el ciclo completo del dato: desde la ingesta y transformación hasta el análisis y la visualización orientada a negocio.
 
-## 🔍 About Me
-- 🎓 Graduate of Hack a Boss Data Science program, where I developed projects like **Análisis Cinematográfico**, performing data extraction, cleaning, EDA and visualization using Python and libraries like pandas, NumPy and matplotlib.
-- 📊 I enjoy turning raw data into actionable insights and building models that solve real-world problems.
-- 🤖 I'm also exploring generative AI and large language models (LLMs), experimenting with their applications in automation and product development.
+📍 Pamplona, Navarra · 🔗 [LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/) · 💼 Abierto a oportunidades
 
-## 🧠 Skills & Technologies
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning:** scikit-learn, TensorFlow basics
-- **Generative AI:** LLMs (intro level)
-- **Tools:** Git & GitHub, APIs, Jupyter Notebooks
+---
 
-## 🧩 Featured Projects
-Here are some of my favorite repositories:
-- 🔍 [`Analisis_cinematografico`](https://github.com/TeoFilaX/Analisis_cinematografico) — Exploratory data analysis of movie data from the TMDb API.
-- 🌈 [`bicefalea-art-gallery`](https://github.com/TeoFilaX/bicefalea-art-gallery) — Interactive art platform exploring surreal visuals.
+## 🧠 Sobre mí
 
-## 📬 Let's Connect
-You can find me on [LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/) where I share my journey into data science and AI. I'm open to collaboration and new opportunities!
+Diseño y desarrollo pipelines ETL de extremo a extremo integrando múltiples fuentes de datos (APIs, bases de datos, web scraping), aplicando transformaciones robustas y estructurando la información en modelos relacionales optimizados para su análisis y reporting.
+
+Me especializo en convertir datos complejos en información clara y accionable para la toma de decisiones de negocio. Actualmente también exploro la **IA Generativa y los LLMs** y sus aplicaciones en la automatización de flujos de datos y el desarrollo de agentes inteligentes.
+
+Busco oportunidades como **Data Analyst**, **Data Engineer** o **Business Intelligence Analyst** donde pueda diseñar soluciones de datos robustas y escalables desde el primer día.
+
+---
+
+## 🛠️ Stack técnico
+
+| Área | Tecnologías |
+|---|---|
+| **Programación** | Python (pandas, NumPy, SQLAlchemy), SQL |
+| **Bases de datos** | PostgreSQL — modelado relacional, índices, vistas |
+| **Visualización & BI** | Power BI — dashboards, DAX, reporting |
+| **Ingeniería de datos** | ETL Pipelines — extracción, transformación y carga |
+| **Cloud** | AWS — almacenamiento y procesamiento de datos |
+| **IA Generativa** | LLMs, Groq, Llama 3.3, Ollama — automatización de agentes |
+| **Herramientas** | Git & GitHub, Jupyter Notebooks, APIs REST |
+| **Estadística** | Estadística aplicada al análisis de datos |
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🔍 [Analisis_cinematografico](https://github.com/TeoFilaX/Analisis_cinematografico)
+Análisis exploratorio de datos cinematográficos utilizando la API pública de TMDb. Construcción de un pipeline ETL completo y análisis para responder preguntas sobre popularidad, géneros, ingresos y tendencias del cine.
+> `Python` · `pandas` · `Data Analysis` · `ETL` · `APIs`
+
+### 🤖 [Nexus Orchestrator v2.1](https://github.com/TeoFilaX/Nexus-Orchestrator-v2.1)
+Orquestador neuronal open source que piensa, delega y ejecuta entre agentes especializados. Construido con Groq + Llama 3.3 y compatible con modelos locales via Ollama.
+> `Python` · `LLMs` · `IA Generativa` · `Multi-agente` · `Groq` · `Ollama`
+
+### 🌈 [bicefalea-art-gallery](https://github.com/TeoFilaX/bicefalea-art-gallery)
+Plataforma de arte interactivo que explora imágenes surrealistas generadas con IA.
+> `IA Generativa` · `Arte digital`
+
+---
+
+## 🎓 Formación
+
+**HACK A BOSS** — Bootcamp en Inteligencia Artificial y Big Data *(sept. 2025 – feb. 2026)*
+
+---
+
+## 📬 Conectemos
+
+¿Tienes un proyecto de datos interesante o una oportunidad donde pueda aportar valor? ¡Hablemos!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Monzón-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-monzon-514746371/)
+[![GitHub](https://img.shields.io/badge/GitHub-TeoFilaX-181717?style=flat&logo=github)](https://github.com/TeoFilaX)
