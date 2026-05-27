@@ -12,7 +12,7 @@ Diseño y desarrollo pipelines ETL de extremo a extremo integrando múltiples fu
 
 Me especializo en convertir datos complejos en información clara y accionable para la toma de decisiones de negocio. Actualmente también exploro la **IA Generativa y los LLMs** y sus aplicaciones en la automatización de flujos de datos y el desarrollo de agentes inteligentes.
 
-Busco oportunidades como **Data Analyst**, **Data Engineer** o **Business Intelligence Analyst** donde pueda diseñar soluciones de datos robustas y escalables desde el primer día.
+Busco oportunidades como **Data Analyst** o **Business Intelligence Analyst** donde pueda diseñar soluciones de datos robustas y escalables desde el primer día.
 
 ---
 
