@@ -70,4 +70,6 @@ Mi orientación a **Big Data** parte de esta base práctica y de mi formación; 
 <picture><img src="assets/project-education.svg" alt="" width="18" height="18"></picture> **HACK A BOSS** — Bootcamp en Inteligencia Artificial y Big Data  
 Septiembre de 2025 – febrero de 2026
 
-[Conectemos en LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/) · [GitHub](https://github.com/TeoFilaX)
+## Conectemos
+
+<a href="https://www.linkedin.com/in/christian-monzon-514746371"><img src="assets/contact-linkedin.svg" alt="Perfil de Christian Monzón en LinkedIn" height="26"></a> <a href="https://github.com/TeoFilaX"><img src="assets/tool-github.svg" alt="Perfil de Christian Monzón en GitHub" height="26"></a>
