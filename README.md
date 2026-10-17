@@ -1,10 +1,12 @@
 # Christian Monzón
 
-**Ingeniería de datos · Machine learning · IA aplicada**
+**Ingeniería de datos y Big Data · Machine learning · IA aplicada**
 
-Desarrollo proyectos con Python y SQL, modelos predictivos, APIs e integración de IA. Busco oportunidades **junior** en ingeniería de datos y Big Data, machine learning e IA aplicada.
+Desarrollo proyectos con Python y SQL: pipelines de datos, modelos predictivos, APIs e integración de IA.
 
-Pamplona, Navarra · <a href="https://www.linkedin.com/in/christian-monzon-514746371"><img src="assets/contact-linkedin.svg" alt="Perfil de Christian Monzón en LinkedIn" height="26"></a> · Abierto a oportunidades
+**Ubicación:** Pamplona, Navarra  
+**Disponibilidad:** abierto a oportunidades **junior**  
+**Contacto:** <a href="https://www.linkedin.com/in/christian-monzon-514746371"><img src="assets/icon-linkedin.svg" alt="" width="16" height="16"> LinkedIn</a>
 
 ---
 
