@@ -1,45 +1,68 @@
-# 👋 Hola, soy Christian Monzón
+# Hola, soy Christian Monzón
 
-**Data Analyst & Engineer** especializado en el ciclo completo del dato: desde la ingesta y transformación hasta el análisis y la visualización orientada a negocio.
+**Ingeniería de datos · Machine Learning · IA aplicada**
 
-📍 Pamplona, Navarra · 🔗 [LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/) · 💼 Abierto a oportunidades
+Desarrollo proyectos de datos con Python y SQL: desde la ingesta y transformación hasta los modelos predictivos y las APIs. También construyo interfaces que integran modelos de IA.
 
----
+Mi objetivo es crecer en **ingeniería de datos y Big Data, machine learning e IA aplicada**. Busco oportunidades **junior** donde seguir aprendiendo y aportar con proyectos prácticos.
 
-## 🧠 Sobre mí
+📍 Pamplona, Navarra · [LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/) · Abierto a oportunidades
 
-Diseño y desarrollo pipelines ETL de extremo a extremo integrando múltiples fuentes de datos (APIs, bases de datos, web scraping), aplicando transformaciones robustas y estructurando la información en modelos relacionales optimizados para su análisis y reporting.
+## Proyectos destacados
 
-Me especializo en convertir datos complejos en información clara y accionable para la toma de decisiones de negocio. Actualmente también exploro la **IA Generativa y los LLMs** y sus aplicaciones en la automatización de flujos de datos y el desarrollo de agentes inteligentes.
+Este portfolio reúne proyectos formativos, personales y en equipo. Cada repositorio muestra su alcance y su implementación.
 
-Busco oportunidades como **Data Analyst** o **Business Intelligence Analyst** donde pueda diseñar soluciones de datos.
+### [GameScope — Video Game Intelligence Pipeline & ML API](https://github.com/mcayuela89/GameScope_Video_Game_Intelligence_Pipeline_ML_API)
 
----
+**Proyecto de equipo · Coautor**
 
-## 🛠️ Stack técnico
+Integra ingesta y almacenamiento de datos en AWS (Lambda, S3 y RDS), un modelo con LightGBM, una API con FastAPI y consultas en lenguaje natural. Es el proyecto que conecta mis intereses en datos, machine learning e IA aplicada.
 
-| Área | Tecnologías |
-|---|---|
-| **Programación** | Python (pandas, NumPy, SQLAlchemy), SQL |
-| **Bases de datos** | PostgreSQL — modelado relacional, índices, vistas |
-| **Visualización & BI** | Power BI — dashboards, DAX, reporting |
-| **Ingeniería de datos** | ETL Pipelines — extracción, transformación y carga |
-| **Cloud** | AWS — almacenamiento y procesamiento de datos |
-| **IA Generativa** | LLMs, Groq, Llama 3.3, Ollama — automatización de agentes |
-| **Herramientas** | Git & GitHub, Jupyter Notebooks, APIs REST |
-| **Estadística** | Estadística aplicada al análisis de datos |
+Equipo: Miguel Ángel Cayuela, Daniel Nedelcu, Doru Catalin Cristian y Christian Monzón Iribarren.
 
----
+### [S&P 500 — Pipeline ETL y PostgreSQL](https://github.com/TeoFilaX/Data_Base_S-P500)
 
-## 🎓 Formación
+Pipeline en Python para extraer, transformar y cargar datos de Wikipedia, yfinance y FRED en PostgreSQL. Incluye SQL para tablas, índices y vistas.
 
-**HACK A BOSS** — Bootcamp en Inteligencia Artificial y Big Data *(sept. 2025 – feb. 2026)*
+**Tecnologías:** Python, pandas, SQLAlchemy, SQL, PostgreSQL, APIs.
 
----
+### [Predicción de morosidad — Machine Learning y API](https://github.com/TeoFilaX/MODELO_PREDICCION_DE_MOROSOS)
 
-## 📬 Conectemos
+Proyecto de clasificación con Random Forest y una API de predicción con FastAPI. Permite explorar el recorrido entre el análisis de datos, el entrenamiento de un modelo y su exposición mediante un servicio.
 
-¿Tienes un proyecto de datos interesante o una oportunidad donde pueda aportar valor? ¡Hablemos!
+**Tecnologías:** Python, pandas, scikit-learn, FastAPI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Monzón-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-monzon-514746371/)
-[![GitHub](https://img.shields.io/badge/GitHub-TeoFilaX-181717?style=flat&logo=github)](https://github.com/TeoFilaX)
+### [Nexus Orchestrator — Integración de IA](https://github.com/TeoFilaX/Nexus-Orchestrator-v2.1)
+
+Interfaz de orquestación de IA desarrollada con React y TypeScript, con integraciones de proveedores de modelos locales y cloud.
+
+**Tecnologías:** TypeScript, React, integración de modelos de IA.
+
+## Más proyectos de datos
+
+- [Análisis cinematográfico](https://github.com/TeoFilaX/Analisis_cinematografico): ETL y análisis exploratorio de datos de TMDb. **Proyecto de equipo** con Miguel Cayuela y Daniel Nedelcu.
+- [Análisis de vivienda con datos del INE](https://github.com/TeoFilaX/Analisis_vivienda_2025): extracción, preparación y visualización del índice de precios de vivienda en un notebook.
+
+## Tecnologías utilizadas en mis proyectos
+
+| Área | Herramientas y prácticas |
+| --- | --- |
+| Programación y análisis | Python, pandas, NumPy, Jupyter |
+| Ingeniería de datos | SQL, PostgreSQL, SQLAlchemy, pipelines ETL, consumo de APIs |
+| Machine learning | scikit-learn, Random Forest; LightGBM en GameScope, proyecto de equipo |
+| APIs | FastAPI, APIs REST |
+| IA aplicada e interfaces | Integración de modelos locales y cloud, React, TypeScript |
+| Desarrollo | Git y GitHub |
+
+Mi orientación hacia **Big Data** parte de esta base práctica de datos y de mi formación. Quiero seguir ampliándola hacia sistemas y procesamiento de mayor escala.
+
+## Formación
+
+**HACK A BOSS** — Bootcamp en Inteligencia Artificial y Big Data  
+Septiembre de 2025 – febrero de 2026
+
+## Contacto
+
+Me interesan las oportunidades junior en ingeniería de datos, machine learning e IA aplicada.
+
+[Conectemos en LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/) · [GitHub](https://github.com/TeoFilaX)
