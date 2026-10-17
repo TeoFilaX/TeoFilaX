@@ -6,7 +6,7 @@ Desarrollo proyectos con Python y SQL, modelos predictivos, APIs e integración 
 
 Pamplona, Navarra · [LinkedIn](https://www.linkedin.com/in/christian-monzon-514746371/) · Abierto a oportunidades
 
-<img src="assets/tech-python.svg" alt="Python" height="24"> <img src="assets/tech-sql.svg" alt="SQL" height="24"> <img src="assets/tech-fastapi.svg" alt="FastAPI" height="24">
+<img src="assets/stack-python.svg" alt="Python" height="24"> <img src="assets/stack-sql.svg" alt="SQL" height="24"> <img src="assets/stack-fastapi.svg" alt="FastAPI" height="24">
 
 ---
 
